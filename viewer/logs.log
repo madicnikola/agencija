@@ -1,0 +1,160 @@
+[05-Feb-2020 07:42:49 Europe/Berlin] PHP Warning:  include(proizvod.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\viewer\welcome.php on line 87
+[05-Feb-2020 07:42:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'proizvod.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\viewer\welcome.php on line 87
+[05-Feb-2020 07:42:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Proizvod' not found in C:\xampp\htdocs\agencija\viewer\welcome.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\welcome.php on line 88
+[05-Feb-2020 07:57:48 Europe/Berlin] PHP Warning:  require(user.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 07:57:48 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'user.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 07:58:34 Europe/Berlin] PHP Warning:  require(user.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 07:58:34 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'user.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 07:59:00 Europe/Berlin] PHP Warning:  require(user.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 07:59:00 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'user.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\viewer\login.php on line 7
+[05-Feb-2020 08:04:00 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\viewer\cart.php on line 110
+[08-Feb-2020 16:09:36 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:10:49 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:10:50 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:12:32 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:12:32 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:12:33 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:12:33 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:13:18 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:13:19 Europe/Berlin] PHP Fatal error:  Cannot declare class Proizvod, because the name is already in use in C:\xampp\htdocs\agencija\controller\proizvod.php on line 3
+[08-Feb-2020 16:22:41 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:22:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:22:42 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:22:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:22:47 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:22:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:15 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:15 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:16 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:20 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:22 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:23 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:27 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:28 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:23:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\putovanja.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 6
+[08-Feb-2020 16:24:36 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:37 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:38 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:38 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:39 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:46 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:46 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:47 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:54 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:56 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:24:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\agencija\viewer\admin.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\viewer\admin.php on line 37
+[08-Feb-2020 16:25:51 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:26:49 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:27:17 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:27:18 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:27:18 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:27:45 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:27:50 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:31:50 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:32:30 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:32:30 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 16:37:21 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:21 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:21 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:27 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:27 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:27 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:29 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:37:29 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:22 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:22 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:22 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:42 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 16:38:42 Europe/Berlin] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\xampp\htdocs\agencija\viewer\delete.php on line 6
+[08-Feb-2020 20:00:36 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 20:11:24 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\xampp\htdocs\agencija\viewer\cart.php on line 110
+[08-Feb-2020 21:13:36 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 21:37:53 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[08-Feb-2020 21:52:18 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[09-Feb-2020 00:57:52 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\xampp\htdocs\agencija\viewer\cart.php on line 110
+[09-Feb-2020 00:59:06 Europe/Berlin] PHP Notice:  Undefined variable: poruka in C:\xampp\htdocs\agencija\viewer\putovanja.php on line 76
+[09-Feb-2020 01:19:42 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in C:\xampp\htdocs\agencija\viewer\cart.php on line 110

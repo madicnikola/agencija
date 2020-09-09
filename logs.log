@@ -1,0 +1,32 @@
+[05-Feb-2020 05:31:34 Europe/Berlin] PHP Warning:  include(proizvod.php): failed to open stream: No such file or directory in C:\xampp\htdocs\westren-travel-agency-free-web-template\welcome.php on line 89
+[05-Feb-2020 05:31:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'proizvod.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\westren-travel-agency-free-web-template\welcome.php on line 89
+[05-Feb-2020 05:31:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Proizvod' not found in C:\xampp\htdocs\westren-travel-agency-free-web-template\welcome.php:90
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\westren-travel-agency-free-web-template\welcome.php on line 90
+[05-Feb-2020 05:41:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Proizvod' not found in C:\xampp\htdocs\agencija\welcome.php:90
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\welcome.php on line 90
+[05-Feb-2020 05:42:12 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\agencija\putovanje.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\welcome.php on line 89
+[05-Feb-2020 05:42:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'putovanje.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\welcome.php on line 89
+[05-Feb-2020 05:42:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Proizvod' not found in C:\xampp\htdocs\agencija\welcome.php:90
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\welcome.php on line 90
+[05-Feb-2020 05:43:05 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\agencija\putovanje.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\welcome.php on line 89
+[05-Feb-2020 05:43:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'putovanje.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\welcome.php on line 89
+[05-Feb-2020 05:43:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Proizvod' not found in C:\xampp\htdocs\agencija\welcome.php:90
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\agencija\welcome.php on line 90
+[05-Feb-2020 05:55:58 Europe/Berlin] PHP Warning:  include(meni.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\cart.php on line 30
+[05-Feb-2020 05:55:58 Europe/Berlin] PHP Warning:  include(): Failed opening 'meni.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\cart.php on line 30
+[05-Feb-2020 05:55:58 Europe/Berlin] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\agencija\cart.php on line 100
+[05-Feb-2020 05:55:58 Europe/Berlin] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\agencija\cart.php on line 100
+[05-Feb-2020 06:12:38 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\zavrsiKupovinu.php on line 107
+[05-Feb-2020 06:31:46 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\grafik.php on line 11
+[05-Feb-2020 06:33:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\grafik.php on line 11
+[05-Feb-2020 06:38:52 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\grafik.php on line 11
+[05-Feb-2020 07:09:51 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\grafik.php on line 11
+[05-Feb-2020 07:10:21 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\agencija\grafik.php on line 11
